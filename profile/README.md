@@ -45,5 +45,11 @@
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/lumos-open/lumos_sdk"> lumos_sdk </a></td>
+        <td> The Lumos SDK empowers developers to control Lumos robots with ease. It offers essential communication protocols and hardware interfaces for direct robot interaction, along with practical example controllers to get you started quickly. Ideal for rapid prototyping and production-grade applications, this SDK is the foundation for building intelligent robotic solutions with Lumos. </td>
+        <td><a href="https://github.com/lumos-open/lumos_sdk"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/lumos_sdk?style=flat-square"/></a></td>
+        <td><a href="https://github.com/lumos-open/lumos_sdk"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/lumos_sdk?style=flat-square"/></a></td>
+    </tr> 
     </tbody>
 </table>
