@@ -43,7 +43,7 @@
 <table><tbody>
 
 <table class="table table-striped table-bordered table-vcenter"/>
-    <tbody>
+  <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
         <td align="center" ><a href="https://github.com/lumos-open/lumos_sdk"> lumos_sdk </a></td>
@@ -51,5 +51,11 @@
         <td><a href="https://github.com/lumos-open/lumos_sdk"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/lumos_sdk?style=flat-square"/></a></td>
         <td><a href="https://github.com/lumos-open/lumos_sdk"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/lumos_sdk?style=flat-square"/></a></td>
     </tr> 
-    </tbody>
+    <tr>
+        <td align="center" ><a href="https://github.com/lumos-open/FastUMI_Hardware_SDK"> FastUMI_Hardware_SDK </a></td>
+        <td> The FastUMI Pro Hardware SDK is a dedicated embodied AI middleware that provides high-precision pose tracking and multi-modal data synchronization via standardized ROS interfaces, enabling seamless end-to-end data acquisition and policy deployment for imitation learning. </td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Hardware_SDK"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Hardware_SDK?style=flat-square"/></a></td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Hardware_SDK"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Hardware_SDK?style=flat-square"/></a></td>
+    </tr>
+  </tbody>
 </table>
