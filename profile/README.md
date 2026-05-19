@@ -57,5 +57,17 @@
         <td><a href="https://github.com/lumos-open/FastUMI_Hardware_SDK"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Hardware_SDK?style=flat-square"/></a></td>
         <td><a href="https://github.com/lumos-open/FastUMI_Hardware_SDK"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Hardware_SDK?style=flat-square"/></a></td>
     </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/lumos-open/FastUMI_Data_Platform_Web"> FastUMI_Data_Platform_Web </a></td>
+        <td> a dedicated data management platform for the FastUMI Pro device in the field of embodied AI. It integrates real-time multi-modal data capture, asynchronous playback review, and automated quality assessment functions. By utilizing a standardized web-based interface, it significantly streamlines the processing of complex sensor data from the FastUMI Pro, providing a reliable software infrastructure for large-scale data acquisition in both scientific research and industrial applications. </td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Data_Platform_Web"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Data_Platform_Web?style=flat-square"/></a></td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Data_Platform_Web"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Data_Platform_Web?style=flat-square"/></a></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/lumos-open/FastUMI_Monitor_Tool"> FastUMI_Monitor_Tool </a></td>
+        <td> An interactive monitoring terminal purpose-built for FastUMI Pro, supporting real-time data streaming and frequency monitoring for IMU, SLAM poses, and multi-channel fisheye/RGBD cameras. </td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Monitor_Tool"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Monitor_Tool?style=flat-square"/></a></td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Monitor_Tool"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Monitor_Tool?style=flat-square"/></a></td>
+    </tr>
   </tbody>
 </table>
