@@ -69,5 +69,17 @@
         <td><a href="https://github.com/lumos-open/FastUMI_Monitor_Tool"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Monitor_Tool?style=flat-square"/></a></td>
         <td><a href="https://github.com/lumos-open/FastUMI_Monitor_Tool"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Monitor_Tool?style=flat-square"/></a></td>
     </tr>
+        <tr>
+        <td align="center" ><a href="https://github.com/lumos-open/FastUMI_Camera"> FastUMI_Camera </a></td>
+        <td> Provides V4L2-based native video stream acquisition and a supporting camera calibration toolchain (demo-api). </td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Camera"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Camera?style=flat-square"/></a></td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Camera"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Camera?style=flat-square"/></a></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/lumos-open/FastUMI_Data_Conversion"> FastUMI_Data_Conversion </a></td>
+        <td> An automated data cleaning and format conversion tool supporting single/dual-arm modes, featuring frequency alignment and parallel compression capabilities. It enables seamless integration from raw captured data to LeRobot/Hugging Face algorithm frameworks, significantly shortening the preparation cycle for model training. </td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Data_Conversion"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Data_Conversion?style=flat-square"/></a></td>
+        <td><a href="https://github.com/lumos-open/FastUMI_Data_Conversion"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Data_Conversion?style=flat-square"/></a></td>
+    </tr>
   </tbody>
 </table>
