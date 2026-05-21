@@ -81,5 +81,11 @@
         <td><a href="https://github.com/lumos-open/FastUMI_Data_Conversion"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/FastUMI_Data_Conversion?style=flat-square"/></a></td>
         <td><a href="https://github.com/lumos-open/FastUMI_Data_Conversion"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/FastUMI_Data_Conversion?style=flat-square"/></a></td>
     </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/lumos-open/startouch_sdk"> startouch_sdk </a></td>
+        <td> This repository is dedicated to hosting the software SDK, sample programs, development documents, and supporting tools for Startouch-v1. It will be continuously updated with device drivers, API references, example applications, debugging utilities, and firmware upgrade support to help developers quickly integrate and use the Startouch-v1 hardware. </td>
+        <td><a href="https://github.com/lumos-open/startouch_sdk"><img alt="Stars" src="https://img.shields.io/github/stars/lumos-open/startouch_sdk?style=flat-square"/></a></td>
+        <td><a href="https://github.com/lumos-open/startouch_sdk"><img alt="Forks" src="https://img.shields.io/github/forks/lumos-open/startouch_sdk?style=flat-square"/></a></td>
+    </tr>
   </tbody>
 </table>
